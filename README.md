@@ -9,7 +9,7 @@ The application is built using ReactJS, Node, MongoDB, ExpressJS, Socket.io
  Windows 10 / Mac OS, VS-Code installed with plugins such as react, javascript, NodeJS runtime environment installed on pc. 
 
 ## Hardware required:-  
-Processor-intel dual core, RAM-3GB, Basic internet connection. 
+Processor-Intel dual core processor, RAM-3GB, Basic internet connection. 
 
 ### **To run the project locally**, create two terminals and navigate inside the client and server folder using 'cd' commands and run these commands:-  
 #### **On client Side**:-  
@@ -19,6 +19,24 @@ Processor-intel dual core, RAM-3GB, Basic internet connection.
             nodemon index //command to start the application on server side. 
 
 If there are any errors related to absense of MongoDB, ExpressJS or Socket.io please install them using 'npm install' commands and run again.
+
+
+## Tech Stack
+
+**Client:** React, Materialize.CSS
+
+**Server:** Node, ExpressJS, Socket.io
+
+  
+## Deployment
+
+To deploy this project run.
+
+```bash
+  npm build 
+```
+
+  
 
 
 
